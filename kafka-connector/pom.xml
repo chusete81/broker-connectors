@@ -3,11 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.jcc</groupId>
+	<groupId>org.chusete81</groupId>
 	<artifactId>kafka-connector</artifactId>
-	<version>1.0.1</version>
-	<name>KafkaConnector</name>
-	<description></description>
+	<version>2.0.0</version>
 
 	<properties>
 	    <maven.compiler.target>1.8</maven.compiler.target>

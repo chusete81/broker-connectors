@@ -1,4 +1,4 @@
-package com.jcc.kafka;
+package org.chusete81.kafka_connector.publisher;
 
 import java.util.Properties;
 

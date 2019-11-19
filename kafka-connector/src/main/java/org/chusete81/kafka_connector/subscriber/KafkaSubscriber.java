@@ -1,4 +1,4 @@
-package com.jcc.kafka;
+package org.chusete81.kafka_connector.subscriber;
 
 import java.time.Duration;
 import java.util.Arrays;
